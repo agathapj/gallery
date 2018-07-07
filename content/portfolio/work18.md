@@ -2,7 +2,7 @@
 draft = false
 image = "img/portfolio/muchacha-de-la-perla.jpg"
 showonlyimage = true
-date = "2016-01-08T20:02:19+05:30"
+date = "2016-06-08T20:02:19+05:30"
 title = "Muchacha de la perla, Vermeer"
 weight = 9
 +++
