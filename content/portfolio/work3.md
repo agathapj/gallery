@@ -2,7 +2,7 @@
 image = "img/portfolio/trigal-con-cipreses.jpg"
 showonlyimage = true
 date = "2013-01-01T19:44:32+05:30"
-title = "Trigal con cipreses"
+title = "Trigal con cipreses, Van Gogh"
 draft = false
 weight = 2
 +++
