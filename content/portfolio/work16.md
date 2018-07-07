@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/paseo-a-orillas-del-mar.jpg"
+image = "img/portfolio/paseo-a-orillas-del-mar_2.jpg"
 showonlyimage = true
 date = "2016-04-30T20:23:59+05:30"
 title = "Paseo a orillas del mar, Sorolla"
