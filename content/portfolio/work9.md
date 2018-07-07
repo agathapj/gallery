@@ -4,7 +4,7 @@ image = "img/portfolio/TARDIS-en-Covarrubias.jpg"
 showonlyimage = false
 date = "2015-01-31T20:02:19+05:30"
 title = "TARDIS en Covarrubias"
-weight = 9
+weight = 8
 +++
 
 Ha sido un placer para mí, incluir entre mis obras pintadas, este gran pueblo de Burgos por un encargo de mi amigo Luis.

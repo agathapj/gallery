@@ -4,7 +4,7 @@ image = "img/portfolio/jeune-fille-vert.jpg"
 showonlyimage = true
 date = "2016-01-07T20:02:19+05:30"
 title = "Jeune Fille Vert, Lempicka"
-weight = 9
+weight = 13
 +++
 
 <!--more-->

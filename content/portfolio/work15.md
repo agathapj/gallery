@@ -4,7 +4,7 @@ image = "img/portfolio/portrait-of-Inger.jpg"
 showonlyimage = true
 date = "2016-01-07T20:23:59+05:30"
 title = "Portrait of Inger, Munch"
-weight = 11
+weight = 14
 +++
 
 No me hubiera planteado copiar esta obra de Munch seguramente, a no ser porque era de interés de una amiga a la que prometí regalar una de mis obras.

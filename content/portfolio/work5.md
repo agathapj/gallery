@@ -3,8 +3,8 @@ image = "img/portfolio/los-jugadores-de-cartas.jpg"
 showonlyimage = true
 draft = false
 date = "2014-03-03T19:53:42+05:30"
-title = "Les joueurs de cartes [Los jugadores de cartas], Paul Cezanne"
-weight = 5
+title = "Les joueurs de cartes, Paul Cezanne"
+weight = 4
 +++
 
 En honor al aniversario de la muerte de otro de los maestros impresionistas, Paul Cezanne, no podía faltar en mi colección particular una de sus mejores obras, Los jugadores de cartas.

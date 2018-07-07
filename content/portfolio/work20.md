@@ -4,7 +4,7 @@ image = "img/portfolio/mujer-de-rojo.jpg"
 showonlyimage = false
 date = "2016-06-08T20:22:08+05:30"
 title = "Mujer de rojo"
-weight = 20
+weight = 19
 +++
 
 Este es uno de los cuadros que más ha gustado pintar, sobre todo por el colorido.

@@ -4,7 +4,7 @@ image = "img/portfolio/Klimt-Eastwood.jpg"
 showonlyimage = false
 date = "2018-01-08T20:22:08+05:30"
 title = "Klimt Eastwood"
-weight = 20
+weight = 21
 +++
 
 Todos tenemos algún amigo más friki que otro.

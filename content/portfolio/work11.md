@@ -4,7 +4,7 @@ image = "img/portfolio/rosa-sobre-piano.jpg"
 showonlyimage = true
 date = "2015-04-29T20:23:59+05:30"
 title = "Rosa sobre piano"
-weight = 11
+weight = 10
 +++
 
 <!--more-->

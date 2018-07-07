@@ -4,7 +4,7 @@ image = "img/portfolio/persistencia-de-la-memoria.jpg"
 showonlyimage = true
 date = "2013-12-23T19:50:47+05:30"
 title = "La persistencia de la memoria"
-weight = 4
+weight = 3
 +++
 
 La persistencia de la memoria, conocido también como Los relojes blandos, es un famoso cuadro del pintor español, y todo un genio, Salvador Dalí pintado en 1931.

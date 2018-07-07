@@ -2,9 +2,9 @@
 draft = false
 image = "img/portfolio/mujer-y-pajaro-mirando-al-sol.jpg"
 date = "2014-03-10T19:56:17+05:30"
-title = "Mujer y Pájaro mirando al Sol, Joan Miró"
+title = "Mujer y pájaro mirando al Sol, Joan Miró"
 showonlyimage = true
-weight = 6
+weight = 5
 +++
 
 Joan Miró, representante del surrealismo, nos deja esta obra en la que aparece, según parece, mujeres y pájaros mirando al sol.
@@ -18,4 +18,4 @@ Técnica: Óleo sobre lienzo
 
 Tamaño: 50x60
 
-![Mujer y Pájaro mirando al Sol](/img/portfolio/mujer-y-pajaro-mirando-al-sol.jpg)
+![Mujer y pájaro mirando al Sol](/img/portfolio/mujer-y-pajaro-mirando-al-sol.jpg)

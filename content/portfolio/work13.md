@@ -4,7 +4,7 @@ image = "img/portfolio/paseo-a-orillas-del-mar.jpg"
 showonlyimage = true
 date = "2016-01-07T20:23:59+05:30"
 title = "Paseo a orillas del mar, Sorolla"
-weight = 11
+weight = 12
 +++
 
 Con razón Sorolla es llamado en pintor de la luz.

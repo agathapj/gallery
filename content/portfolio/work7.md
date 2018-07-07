@@ -4,7 +4,7 @@ showonlyimage = true
 date = "2014-03-12T19:57:40+05:30"
 title = "El somriure de les ales flamejants, Joan Miró"
 draft = false
-weight = 7
+weight = 6
 +++
 
 Qué decir de Miró? Tan fácil copiarlo como difícil interpretarlo...

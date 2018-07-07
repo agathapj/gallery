@@ -4,7 +4,7 @@ image = "img/portfolio/paisaje-urbano.jpg"
 showonlyimage = false
 date = "2018-01-11T20:22:08+05:30"
 title = "Paisaje Urbano, Mann"
-weight = 20
+weight = 22
 +++
 
 Esta obra ha sido el primer reto directo por parte de mi profesor de pintura.

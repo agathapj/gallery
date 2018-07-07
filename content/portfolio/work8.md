@@ -4,7 +4,7 @@ draft = false
 image = "img/portfolio/paisajes-Londres.jpg"
 date = "2014-03-24T19:59:22+05:30"
 title = "Paisajes - Londres"
-weight = 8
+weight = 7
 +++
 
 <!--more-->

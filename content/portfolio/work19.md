@@ -4,7 +4,7 @@ image = "img/portfolio/lago-de-Como.jpg"
 showonlyimage = true
 date = "2016-06-08T20:02:19+05:30"
 title = "Lago de Como"
-weight = 9
+weight = 18
 +++
 
 Mi prima Esther me pidió que le pintara un cuadro para ponerlo en su salón.
