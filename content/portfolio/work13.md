@@ -19,7 +19,3 @@ Técnica: Óleo sobre lienzo
 Tamaño: 40x60
 
 ![Paseo a orillas del mar](/img/portfolio/paseo-a-orillas-del-mar.jpg)
-
-Una segunda copia del mismo cuadro, distintos tonos, distinto tamaño.
-
-![Paseo a orillas del mar](/img/portfolio/paseo-a-orillas-del-mar_2.jpg)
