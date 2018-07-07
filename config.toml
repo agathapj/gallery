@@ -14,8 +14,7 @@ googleAnalytics = ""
   description = "Describe your website"
   copyright = "&copy;2016 Agatha Palencia"
   sidebarAbout = [
-    "Aprendiendo a pintar.",
-    "Originalmente de Almorox, ahora me encuentro en Madrid."
+    "Aprendiendo a pintar... un cuadro cada vez"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -36,6 +35,10 @@ googleAnalytics = ""
   name = "Home"
   url = "portfolio/"
   home = true
+
+  [[params.navlinks]]
+  name = "En proceso"
+  url = "in-progress/"
 
   [[params.navlinks]]
   name = "Sobre mí"
