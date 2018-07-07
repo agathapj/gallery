@@ -1,31 +1,19 @@
 +++
 draft = false
-image = ""
-date = "2016-11-05T19:56:17+05:30"
-title = "Name of the work 6"
-showonlyimage = false
+image = "img/portfolio/mujer-y-pajaro-mirando-al-sol.jpg"
+date = "2014-03-10T19:56:17+05:30"
+title = "Mujer y Pájaro mirando al Sol, Joan Miró"
+showonlyimage = true
 weight = 6
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+Joan Miró, representante del surrealismo, nos deja esta obra en la que aparece, según parece, mujeres y pájaros mirando al sol.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+Nos sorprende la imaginación de este pintor y escultor tan famoso, como era capaz de pintar los cuadros en tan poco tiempo, y venderlos por una media de unos 50 mil euros cada uno.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+En todos sus cuadros, buscaba el contraste de unos fondos poco trabajados y no uniformes, dejando ver incluso a veces el lienzo, con figuras, sobre todo geométricas, o trazos curvos, pintados con colores primarios y vivos.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+Óleo sobre lienzo.Tamaño: 50x60
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+![Mujer y Pájaro mirando al Sol](/img/portfolio/mujer-y-pajaro-mirando-al-sol.jpg)
