@@ -16,8 +16,8 @@ En lo que respecta a los relojes, el hecho de que sean blandos indicaba, por un 
 
 Sobre los relojes pintados encima de, lo que parece ser, una mesa, aparecen unas hormigas y una mosca, habituales en más de sus obras que representan la putrefacción y en gran parte, por el miedo que le tenía a la muerte.
 
-Técnica: Óleo sobre lienzo.
+Técnica: Óleo sobre lienzo
 
-Tamaño: 40x50.
+Tamaño: 40x50
 
 ![La persistencia de la memoria](/img/portfolio/persistencia-de-la-memoria.jpg)
