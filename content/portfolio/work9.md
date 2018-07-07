@@ -1,31 +1,23 @@
 +++
 draft = false
-image = "img/portfolio/envelope-brand.jpg"
+image = "img/portfolio/TARDIS-en-Covarrubias.jpg"
 showonlyimage = false
-date = "2016-11-05T20:02:19+05:30"
-title = "Item with image"
+date = "2015-01-31T20:02:19+05:30"
+title = "TARDIS en Covarrubias"
 weight = 9
 +++
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Ha sido un placer para mí, incluir entre mis obras pintadas, este gran pueblo de Burgos por un encargo de mi amigo Luis.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+Dicho encargo, el cual adquirí como reto personal, consistía, no sólo en pintar el complejo paisaje que ya por sí solo ofrece la plaza del pueblo, con su famoso torreón de Fernán González, sino que tenía que ensamblar en el paisaje una tardis de la serie Dr Who, de quien mi querido amigo es muy fan.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+La complejidad de las piedras que tiene toda la fachada, junto con la poca experiencia que por aquél entónces yo tenía, hizo que tardara en terminar el encargo, aproximadamente unas 50 horas, de las cuáles, había algunas que se pasaban con gran inspiración, y muchas otras, por contra, con gran desesperación...
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+El resultado fue lo esperado, por lo que estoy bastante contenta y satisfecha, sobre todo porque a mi amigo le ha encantado. :D
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Técnica: Óleo sobre lienzo
 
-## Header Level 2
+Tamaño: 30x40
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+![TARDIS en Covarrubias](/img/portfolio/TARDIS-en-Covarrubias.jpg)
