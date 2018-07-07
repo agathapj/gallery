@@ -1,31 +1,17 @@
 +++
-date = "2016-11-05T19:41:01+05:30"
-title = "Name of the work 2"
+date = "2012-10-01T19:41:01+05:30"
+title = "Noche Estrellada"
 draft = false
-image = "img/portfolio/business-card-26.jpg"
+image = "img/portfolio/noche-estrellada.jpg"
 showonlyimage = false
 weight = 1
 +++
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
+La noche estrellada es uno de los cuadros más conocidos y tipicos del post-impresionista holandés, Vincent Van Gogh.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+En el cuadro se aprecia lo que el pintor veía desde la ventana del sanatorio donde estuvo recluído en sus últimos años. A pesar de ser un paisaje nocturno, lo pintó de día. Se puede apreciar un pueblo con una torre de lo que parece ser una iglesia y un gran ciprés a la izquierda. La forma de las nubles y estrellas,  le dan el toque característico de la pincelada.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Técnica: Óleo sobre lienzo.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
-
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+Tamaño: 20x30.

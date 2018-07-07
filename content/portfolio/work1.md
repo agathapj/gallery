@@ -1,5 +1,5 @@
 +++
-showonlyimage = true
+showonlyimage = false
 draft = false
 image = "img/portfolio/paisaje-otonal.jpg"
 date = "2012-09-01T18:25:22+05:30"
