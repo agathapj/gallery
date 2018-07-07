@@ -10,7 +10,7 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "default"
+  style = "sea"
   description = "Describe your website"
   copyright = "&copy;2016 Agatha Palencia"
   sidebarAbout = [
@@ -46,12 +46,12 @@ googleAnalytics = ""
   url = "contact/"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
-  youtube       = "full profile url in youtube"
+  facebook      = ""
+  googleplus    = ""
+  email         = "mividaenoleo@gmail.com"
+  twitter       = "agathapj"
+  linkedin      = ""
+  stackoverflow = ""
+  instagram     = ""
+  github        = ""
+  youtube       = ""
