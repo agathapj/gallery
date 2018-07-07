@@ -6,4 +6,4 @@ Para probarlo:
 
 * Descarga este repositorio
 * Instala hugo
-* ejecuta '''hugo server'''
+* ejecuta `hugo server`
