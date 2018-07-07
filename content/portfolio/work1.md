@@ -12,8 +12,8 @@ Este es el primer cuadro que pinté, hace ya unos 5 años. Creo que queda de man
 
 Maravilloso paisaje de un rio con cielo en tonos rosáceos y azules. A las orillas del río caudaloso crecen enormes y voluminosos árboles que hacen un bonito paisaje totalmente de entorno natural.
 
-![Paisaje otoñal sobre un río](/img/portfolio/paisaje-otonal.jpg)
-
 Técnica: Óleo sobre lienzo.
 
 Tamaño: 10x15.
+
+![Paisaje otoñal sobre un río](/img/portfolio/paisaje-otonal.jpg)
