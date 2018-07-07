@@ -1,31 +1,25 @@
 +++
 draft = false
-image = "img/portfolio/trifold.jpg"
-showonlyimage = true
-date = "2016-11-05T20:22:08+05:30"
-title = "Item with image"
+image = "img/portfolio/enamorados-en-Camarenilla.jpg"
+showonlyimage = false
+date = "2015-04-29T20:22:08+05:30"
+title = "Enamorados en Camarenilla"
 weight = 10
 +++
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Se trata de una pareja de enamorados, recién casados o a punto de hacerlo, en un pueblo de Toledo.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+Esta obra es especial para mí, porque esos enamorados son amigos: mi querida y vieja amiga Ana Belén, cuya amistad aún conservo desde el instituto (y por muchos años más), y su actual marido, una persona encantadora, Jaime.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Se trata de una foto que ellos mismos tienen, me gustó tanto, que sin decirles nada, me tiré unas cuantas semanas pintándolo al óleo, con mucho gusto.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+Me gustó bastante el resultado, puesto que los colores de ese atardecer me quedaron muy bonitos. Además, la cara de sorpresa y alegría que pusieron cuando lo vieron, fue una gran satisfacción para mi.
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Por suerte, ahora luce en su salón, ¡y yo encantada! :-D
 
-## Header Level 2
+Técnica: Óleo sobre lienzo
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+Tamaño: 30x40
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+![Enamorados en Camarenilla](/img/portfolio/enamorados-en-Camarenilla.jpg)
