@@ -1,6 +1,6 @@
 +++
 date = "2012-10-01T19:41:01+05:30"
-title = "Noche Estrellada"
+title = "Noche Estrellada, Van Gogh"
 draft = false
 image = "img/portfolio/noche-estrellada.jpg"
 showonlyimage = false

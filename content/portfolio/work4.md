@@ -1,31 +1,23 @@
 +++
 draft = false
-image = ""
-showonlyimage = false
-date = "2016-11-05T19:50:47+05:30"
-title = "Item without image"
+image = "img/portfolio/persistencia-de-la-memoria.jpg"
+showonlyimage = true
+date = "2013-12-23T19:50:47+05:30"
+title = "La persistencia de la memoria"
 weight = 4
 +++
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+La persistencia de la memoria, conocido también como Los relojes blandos, es un famoso cuadro del pintor español, y todo un genio, Salvador Dalí pintado en 1931.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+En el cuadro aparece al fondo una cala del cabo de Creus, que le inspiraba en algunas de sus obras. Casi en el centro del cuadro, aparece acostado, apoyado sobre una piedra, lo que parece ser un autorretrato, la representación de él mismo, el cual aparece en más cuadros, como por ejemplo, en el gran masturbador. Psicólogos han determinado que es posible que esa forma de autorretrato pueda expresar en parte la represión y la impotencia que sentía respecto a su sexualidad.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+En lo que respecta a los relojes, el hecho de que sean blandos indicaba, por un lado, la no-rigidez en el tiempo que le evocaba estar ahí, no tenía en cuenta el horario de los relojes. Para dibujarlos, se inspiró en el queso camembert, por la caída que tienen cuando se derriten.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+Sobre los relojes pintados encima de, lo que parece ser, una mesa, aparecen unas hormigas y una mosca, habituales en más de sus obras que representan la putrefacción y en gran parte, por el miedo que le tenía a la muerte.
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Técnica: Óleo sobre lienzo.
 
-## Header Level 2
+Tamaño: 40x50.
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+![La persistencia de la memoria](/img/portfolio/persistencia-de-la-memoria.jpg)
