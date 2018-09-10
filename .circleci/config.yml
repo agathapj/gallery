@@ -3,7 +3,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: felicianotech/docker-hugo:0.22.1
+      - image: jguyomard/hugo-builder:0.32
 
     steps:
       - run: git config --global user.name "CircleCI"
