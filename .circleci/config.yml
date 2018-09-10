@@ -3,7 +3,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: jguyomard/hugo-builder:0.32
+      - image: felicianotech/docker-hugo:0.22.1
 
     steps:
       - run: git config --global user.name "CircleCI"
@@ -13,8 +13,10 @@ jobs:
 
       - run: echo "building the hugo blog"
 
-      - run: docker-compose run hugo -d docs
+      - run:
+          name: "Run Hugo"
+          command: HUGO_ENV=production hugo -v -d docs
 
-      - run: git add docs
-      - run: git commit --message "Generated site on $(date) [ci skip]"
-      - run: git push origin master
+#      - run: git add docs
+#      - run: git commit --message "Generated site on $(date) [ci skip]"
+#      - run: git push origin master
