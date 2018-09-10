@@ -13,8 +13,8 @@ jobs:
 
       - run: echo "building the hugo blog"
 
-      - docker-compose run hugo -d docs
-      
+      - run: docker-compose run hugo -d docs
+
       - run: git add docs
       - run: git commit --message "Generated site on $(date) [ci skip]"
       - run: git push origin master
