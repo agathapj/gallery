@@ -17,6 +17,6 @@ jobs:
           name: "Run Hugo"
           command: HUGO_ENV=production hugo -v -d docs
 
-#      - run: git add docs
-#      - run: git commit --message "Generated site on $(date) [ci skip]"
-#      - run: git push origin master
+      - run: git add docs
+      - run: git commit --message "Generated site on $(date) [ci skip]"
+      - run: git push origin master
