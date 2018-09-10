@@ -6,9 +6,6 @@ jobs:
       - image: jguyomard/hugo-builder:0.32
 
     steps:
-      - add_ssh_keys:
-          fingerprint: 4f:75:0f:ec:ee:88:c7:1a:d4:5a:d5:53:6e:af:6a:4c
-
       - run: git config --global user.name "CircleCI"
       - run: git config --global user.email "circleci@circleci.com"
 
