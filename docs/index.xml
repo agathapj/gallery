@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>La Galería de Agatha</title>
+    <link>https://example.org/</link>
+    <description>Recent content on La Galería de Agatha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Oct 2012 19:41:01 +0530</lastBuildDate>
+    
+	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Noche Estrellada, Van Gogh</title>
+      <link>https://example.org/portfolio/work2/</link>
+      <pubDate>Mon, 01 Oct 2012 19:41:01 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work2/</guid>
+      <description>&lt;p&gt;La noche estrellada es uno de los cuadros más conocidos y tipicos del post-impresionista holandés, Vincent Van Gogh.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Trigal con cipreses, Van Gogh</title>
+      <link>https://example.org/portfolio/work3/</link>
+      <pubDate>Tue, 01 Jan 2013 19:44:32 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work3/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>La persistencia de la memoria</title>
+      <link>https://example.org/portfolio/work4/</link>
+      <pubDate>Mon, 23 Dec 2013 19:50:47 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work4/</guid>
+      <description>&lt;p&gt;La persistencia de la memoria, conocido también como Los relojes blandos, es un famoso cuadro del pintor español, y todo un genio, Salvador Dalí pintado en 1931.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Les joueurs de cartes, Paul Cezanne</title>
+      <link>https://example.org/portfolio/work5/</link>
+      <pubDate>Mon, 03 Mar 2014 19:53:42 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work5/</guid>
+      <description>&lt;p&gt;En honor al aniversario de la muerte de otro de los maestros impresionistas, Paul Cezanne, no podía faltar en mi colección particular una de sus mejores obras, Los jugadores de cartas.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mujer y pájaro mirando al Sol, Joan Miró</title>
+      <link>https://example.org/portfolio/work6/</link>
+      <pubDate>Mon, 10 Mar 2014 19:56:17 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work6/</guid>
+      <description>&lt;p&gt;Joan Miró, representante del surrealismo, nos deja esta obra en la que aparece, según parece, mujeres y pájaros mirando al sol.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>El somriure de les ales flamejants, Joan Miró</title>
+      <link>https://example.org/portfolio/work7/</link>
+      <pubDate>Wed, 12 Mar 2014 19:57:40 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work7/</guid>
+      <description>&lt;p&gt;Qué decir de Miró? Tan fácil copiarlo como difícil interpretarlo&amp;hellip;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paisajes - Londres</title>
+      <link>https://example.org/portfolio/work8/</link>
+      <pubDate>Mon, 24 Mar 2014 19:59:22 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work8/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>TARDIS en Covarrubias</title>
+      <link>https://example.org/portfolio/work9/</link>
+      <pubDate>Sat, 31 Jan 2015 20:02:19 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work9/</guid>
+      <description>&lt;p&gt;Ha sido un placer para mí, incluir entre mis obras pintadas, este gran pueblo de Burgos por un encargo de mi amigo Luis.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Enamorados en Camarenilla</title>
+      <link>https://example.org/portfolio/work10/</link>
+      <pubDate>Wed, 29 Apr 2015 20:22:08 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work10/</guid>
+      <description>&lt;p&gt;Se trata de una pareja de enamorados, recién casados o a punto de hacerlo, en un pueblo de Toledo.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rosa sobre piano</title>
+      <link>https://example.org/portfolio/work11/</link>
+      <pubDate>Wed, 29 Apr 2015 20:23:59 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work11/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tamara en Bugatti verde</title>
+      <link>https://example.org/portfolio/work12/</link>
+      <pubDate>Wed, 29 Apr 2015 20:23:59 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work12/</guid>
+      <description>&lt;p&gt;Era la primera vez que me decía por el Art Decó, y tengo que decir que me disfuté bastante con esta obra.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paseo a orillas del mar, Sorolla</title>
+      <link>https://example.org/portfolio/work13/</link>
+      <pubDate>Thu, 07 Jan 2016 20:23:59 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work13/</guid>
+      <description>&lt;p&gt;Con razón Sorolla es llamado en pintor de la luz.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Jeune Fille Vert, Lempicka</title>
+      <link>https://example.org/portfolio/work14/</link>
+      <pubDate>Thu, 07 Jan 2016 20:02:19 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work14/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Portrait of Inger, Munch</title>
+      <link>https://example.org/portfolio/work15/</link>
+      <pubDate>Thu, 07 Jan 2016 20:23:59 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work15/</guid>
+      <description>&lt;p&gt;No me hubiera planteado copiar esta obra de Munch seguramente, a no ser porque era de interés de una amiga a la que prometí regalar una de mis obras.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paseo a orillas del mar, Sorolla</title>
+      <link>https://example.org/portfolio/work16/</link>
+      <pubDate>Sat, 30 Apr 2016 20:23:59 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work16/</guid>
+      <description>&lt;p&gt;Con razón Sorolla es llamado en pintor de la luz.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Billy Boys, Vettriano</title>
+      <link>https://example.org/portfolio/work17/</link>
+      <pubDate>Fri, 08 Jan 2016 20:02:19 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work17/</guid>
+      <description>&lt;p&gt;Nada más plantar la vista en este cuadro, lo que más me llama la atención es la tonalidad del paisaje con el contraste del negro de los hombres.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Muchacha de la perla, Vermeer</title>
+      <link>https://example.org/portfolio/work18/</link>
+      <pubDate>Wed, 08 Jun 2016 20:02:19 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work18/</guid>
+      <description>&lt;p&gt;Cuando pensé en copiar la muchacha de la perla, de Veermer no estaba segura de que pudiera publicarla.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lago de Como</title>
+      <link>https://example.org/portfolio/work19/</link>
+      <pubDate>Wed, 08 Jun 2016 20:02:19 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work19/</guid>
+      <description>&lt;p&gt;Mi prima Esther me pidió que le pintara un cuadro para ponerlo en su salón.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mujer de rojo</title>
+      <link>https://example.org/portfolio/work20/</link>
+      <pubDate>Wed, 08 Jun 2016 20:22:08 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work20/</guid>
+      <description>&lt;p&gt;Este es uno de los cuadros que más ha gustado pintar, sobre todo por el colorido.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Raquel en la ventana</title>
+      <link>https://example.org/portfolio/work21/</link>
+      <pubDate>Fri, 01 Dec 2017 20:22:08 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work21/</guid>
+      <description>&lt;p&gt;Otro de los grandes retos con los que me he topado al pintar una obra ha sido esta de unos amigos.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Klimt Eastwood</title>
+      <link>https://example.org/portfolio/work22/</link>
+      <pubDate>Mon, 08 Jan 2018 20:22:08 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work22/</guid>
+      <description>&lt;p&gt;Todos tenemos algún amigo más friki que otro.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paisaje Urbano, Mann</title>
+      <link>https://example.org/portfolio/work23/</link>
+      <pubDate>Thu, 11 Jan 2018 20:22:08 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work23/</guid>
+      <description>&lt;p&gt;Esta obra ha sido el primer reto directo por parte de mi profesor de pintura.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paisaje otoñal sobre un río</title>
+      <link>https://example.org/portfolio/work1/</link>
+      <pubDate>Sat, 01 Sep 2012 18:25:22 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work1/</guid>
+      <description>&lt;p&gt;Este es el primer cuadro que pinté, hace ya unos 5 años. Creo que queda de manifiesto quea algo he mejorado&amp;hellip;
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
